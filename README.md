@@ -2,10 +2,11 @@
 	
 Este trabalho faz uma análise dos terremotos que chamaram atenção globalmente no período de 1965 até 2016 e também das atividades vulcânicas. Poderia o movimento das placas tectônicas influenciar na erupção de vulcões?
 
-As analises e implementações estão descritas no arquivo terremotos_
+As análises e implementações estão descritas no arquivo terremotos.ipynb.
 
 ## Objetivo
 Trabalho da 2º unidade da disciplina de Analise de dados I.
+
 Professor: Ivanovitch Medeiros
 
 
