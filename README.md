@@ -18,3 +18,9 @@ Professor: Ivanovitch Medeiros
 * Michel Jean ( michelkatsilis@gmail.com )
 
 Para facilitar o entendimento, o nome dos integrantes está explicito nas seções que cada um trabalhou.
+
+s
+## Observações:
+**countryMap.txt**: necessário pra converter códigos de países (Country Codes, ou CC) de 2 letras para 3 letras (formato do plotly).
+
+**plotly_countries_and_codes.csv**: Converte
